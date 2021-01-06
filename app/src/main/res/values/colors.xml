@@ -7,4 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="player">#FF0000</color>
+    <color name="enemy">#00ffff</color>
+    <color name="spell">#FFDD00</color>
+    <color name="healthborder">#A0A0A0</color>
+    <color name="healthbarhealth">#36FB00</color>
 </resources>
